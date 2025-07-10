@@ -41,10 +41,17 @@ julia -v
 I used the version `1.10.4`.
 
 
-## Another resources
+## Other resources
 
 [Kanban board](https://trello.com/b/gEzHauLi/geral)
 
 [Demo](https://youtu.be/masqBbglKNY)
 
 [Installation of Julia](https://julialang.org/downloads/)
+
+
+## Other versions
+
+[Kotlin version](https://github.com/andreterceiro/game-of-consecutive-mathematical-operations-kotlin)
+
+[Elixir version](https://github.com/andreterceiro/game-of-consecutive-mathematical-operations-elixir).
